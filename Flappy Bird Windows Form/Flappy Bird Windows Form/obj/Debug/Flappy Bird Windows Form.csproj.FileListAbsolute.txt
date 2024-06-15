@@ -1,0 +1,27 @@
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe.config
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.pdb
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csprojResolveAssemblyReference.cache
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Form1.resources
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Properties.Resources.resources
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.GenerateResource.Cache
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.exe
+C:\Users\Anhar Ali\Documents\Visual Studio 2017\Projects\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.pdb
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe.config
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.exe
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.pdb
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.exe
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\Flappy Bird Windows Form.pdb
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\mscorlib.dll
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\System.Net.Http.dll
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\System.Net.Http.xml
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\normidna.nlp
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\normnfc.nlp
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\normnfd.nlp
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\normnfkc.nlp
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\bin\Debug\normnfkd.nlp
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csprojResolveAssemblyReference.cache
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Form1.resources
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy_Bird_Windows_Form.Properties.Resources.resources
+D:\class\c#\C-Flappy-Bird-Game-Windows-Form-main\Flappy Bird Windows Form\Flappy Bird Windows Form\obj\Debug\Flappy Bird Windows Form.csproj.GenerateResource.Cache
